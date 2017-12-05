@@ -5,7 +5,7 @@ import CssManager from './lib/CssManager.js'
 import ImageManager from './lib/ImageManager.js'
 import Expandable from './lib/Expandable.js'
 import ExpandableDcs from './lib/ExpandableDcs.js'
-import LiveScoring from './lib/LiveScoring.js'
+// import LiveScoring from './lib/LiveScoring.js'
 
 // TODO: Is there a better way to do this ????
 export {
@@ -16,5 +16,5 @@ export {
 	ImageManager,
 	Expandable,
 	ExpandableDcs,
-	LiveScoring,
+	// LiveScoring,
 }
