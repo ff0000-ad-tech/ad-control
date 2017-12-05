@@ -13,9 +13,11 @@
   "author": "RED Interactive Agency",
   "license": "ISC",
   "dependencies": {
+    "ad-events": "file:~/Internal/ad-events",
     "ad-external": "file:~/Internal/ad-external",
     "ad-geom": "file:~/Internal/ad-geom",
-    "ad-events": "file:~/Internal/ad-events",
-    "ad-load": "file:~/Internal/ad-load"
+    "ad-load": "file:~/Internal/ad-load",
+    "ad-utils": "file:~/Internal/ad-utils",
+    "ad-view": "file:../ad-view"
   }
 }
