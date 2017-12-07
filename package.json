@@ -18,6 +18,6 @@
     "ad-geom": "git://github.com:ff0000-ad-tech/ad-geom.git",
     "ad-load": "git://github.com:ff0000-ad-tech/ad-load.git",
     "ad-utils": "git://github.com:ff0000-ad-tech/ad-utils.git",
-    "ad-view": "file:../ad-view"
+    "ad-view": "git://github.com:ff0000-ad-tech/ad-view.git"
   }
 }
