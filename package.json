@@ -13,11 +13,11 @@
   "author": "RED Interactive Agency",
   "license": "ISC",
   "dependencies": {
-    "ad-events": "file:~/Internal/ad-events",
-    "ad-external": "file:~/Internal/ad-external",
-    "ad-geom": "file:~/Internal/ad-geom",
-    "ad-load": "file:~/Internal/ad-load",
-    "ad-utils": "file:~/Internal/ad-utils",
+    "ad-events": "git://github.com:ff0000-ad-tech/ad-events.git",
+    "ad-external": "git://github.com:ff0000-ad-tech/ad-external.git",
+    "ad-geom": "git://github.com:ff0000-ad-tech/ad-geom.git",
+    "ad-load": "git://github.com:ff0000-ad-tech/ad-load.git",
+    "ad-utils": "git://github.com:ff0000-ad-tech/ad-utils.git",
     "ad-view": "file:../ad-view"
   }
 }
