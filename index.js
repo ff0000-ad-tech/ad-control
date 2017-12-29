@@ -1,5 +1,4 @@
 export { default as PrepareCore } from './lib/PrepareCore.js'
-export { default as PrepareCommon } from './lib/PrepareCommon.js'
 export { default as Async } from './lib/Async.js'
 export { default as CssManager } from './lib/CssManager.js'
 export { default as ImageManager } from './lib/ImageManager.js'
