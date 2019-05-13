@@ -9,9 +9,13 @@
 [![npm license](https://img.shields.io/npm/l/@ff0000-ad-tech%2Fad-control.svg?style=flat-square)](https://github.com/ff0000-ad-tech/ad-control/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Control
-
 * * *
+
+# ad-control
+
+Core managers
+
+## API 
 
 ## <a name="Core" href="./docs/Core.md">Core</a>
 * <a href="./docs/Core.md#Core.init">.init(fbaLoader)</a>
@@ -37,5 +41,6 @@
 * <a href="./docs/SheetManager.md#SheetManager.createGlobalNode">.createGlobalNode(nodeId, styles)</a>
 * <a href="./docs/SheetManager.md#SheetManager.addClass">.addClass(target, className)</a>
 * <a href="./docs/SheetManager.md#SheetManager.removeClass">.removeClass(target, className)</a>
+
 
 * * *
