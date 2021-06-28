@@ -1,3 +1,4 @@
-import * as Core from './lib/Core.js'
-import * as ImageManager from './lib/ImageManager.js'
-export { Core, ImageManager }
+import * as Expandable from './lib/Expandable.js'
+import * as ExpandableDcs from './lib/ExpandableDcs.js'
+import YouTube from './lib/YouTube'
+export { Expandable, ExpandableDcs, YouTube }
